@@ -1,12 +1,13 @@
+import { Container } from './styles';
 
 export function Details()  {
   
   return ( 
-
-    <div> 
+    
+    <Container> 
       <h1>Hello world!</h1>
       <span>test</span>
-    </div>
-  
+    </Container> 
+   
   )
 }
