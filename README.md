@@ -1,6 +1,6 @@
 # RocketNotes
 
-![./img/cap1.png]
+![](./img/cap1.png)
 
  ## Start project 
     npm install 
